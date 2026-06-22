@@ -29,7 +29,7 @@ Repository
 ----------------------
 
 Browse source code...
-  https://github.com/???
+  https://github.com/Kirfik/ifoc-mod-luanti
 
 Compatability
 ----------------------
