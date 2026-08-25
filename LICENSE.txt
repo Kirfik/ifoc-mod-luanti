@@ -1,0 +1,187 @@
+﻿Independent Flags of Countries (ifoc)
+Copyright (c) 2026 Kirfik
+
+This package contains code and media released under different licenses.
+The licenses apply according to the component descriptions below.
+This file is a license summary and does not replace the complete license
+texts.
+
+===============================================================================
+1. CODE
+===============================================================================
+
+The original and modified source code of this mod is licensed under the
+GNU Lesser General Public License, version 3 or any later version
+(LGPL-3.0-or-later).
+
+This includes code derived from or based on the Pride Flags mod by Wuzzy <Wuzzy@disroot.org> and Leslie E. Krause <leslie@searstower.org>.
+
+You may redistribute and/or modify the code under the terms of the
+GNU Lesser General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+The code is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License
+for more details.
+
+The complete text of the LGPL-3.0-or-later license is available at:
+
+https://www.gnu.org/licenses/lgpl-3.0.html
+
+===============================================================================
+2. MULTIMEDIA FROM PRIDE FLAGS
+===============================================================================
+
+The following media are derived from or copied from the Pride Flags mod:
+/models/pride_flags_mast_lower.obj
+   by sorcerykid
+
+   /models/pride_flags_mast_upper.obj
+   by sorcerykid
+
+   /models/pride_flags_wavingflag.b3d
+   by sorcerykid
+
+   /textures/pole/pride_flags_baremetal.png
+   by sorcerykid
+
+   /sounds/pride_flags_flagwave1.ogg
+   by Chelly01
+   obtained from https://freesound.org/people/Chelly01/sounds/541088/
+   modified by sorcerykid
+
+   /sounds/pride_flags_flagwave2.ogg
+   by Chelly01
+   obtained from https://freesound.org/people/Chelly01/sounds/541088/
+   modified by sorcerykid
+
+   /sounds/pride_flags_flagwave3.ogg
+   by Chelly01
+   obtained from https://freesound.org/people/Chelly01/sounds/541088/
+   modified by sorcerykid
+
+These media are licensed under the Creative Commons
+Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0).
+
+Copyright for the original Pride Flags work:
+
+- Leslie E. Krause
+- Wuzzy
+
+You are free to:
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and
+indicate if changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological measures that
+legally restrict others from doing anything the license permits.
+
+Notices:
+
+You do not have to comply with the license for elements of the material in the public
+domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary
+for your intended use. For example, other rights such as publicity, privacy, or moral
+rights may limit how you use the material.
+
+
+The complete text of the CC BY-SA 3.0 license is available at:
+
+https://creativecommons.org/licenses/by-sa/3.0/
+
+===============================================================================
+3. COUNTRY FLAG MEDIA
+===============================================================================
+
+The country flag textures are derived from the country flag images used by
+the Pride Country Flags mod. Those images originate from the flag-icons
+project.
+
+The country flag textures are licensed under the MIT License.
+
+The original copyright notice is:
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+The MIT License permits use, copying, modification, distribution,
+sublicensing, and sale, provided that the copyright notice and this
+permission notice are included in copies or substantial portions of the
+software or media.
+
+The complete text of the MIT License follows:
+
+The MIT License (MIT)
+
+Copyright (c) 2013 Panayiotis Lipiridis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+===============================================================================
+4. UPSTREAM PROJECTS
+===============================================================================
+
+This mod was developed using code and media from the following projects:
+
+Pride Flags
+Author: Leslie E. Krause <leslie@searstower.org> and Wuzzy <Wuzzy@disroot.org>
+License: LGPL-3.0-or-later for code; CC BY-SA 3.0 for media
+Repository:
+https://codeberg.org/Wuzzy/pride_flags
+
+Pride Country Flags
+Author: snowyu
+License: MIT
+Repository:
+https://github.com/snowyu/minetest-country_flags
+
+flag-icons
+Author: Panayiotis Lipiridis and contributors
+License: MIT
+Repository:
+https://github.com/lipis/flag-icons
+
+===============================================================================
+5. COPYRIGHT AND MODIFICATIONS
+===============================================================================
+
+Copyright notices and license notices for the upstream projects must be
+preserved.
+
+Modifications and original contributions made for Independent Flags of
+Countries (ifoc) are Copyright (c) 2026 Kirfik.
+
+Original contributions to the code are licensed under LGPL-3.0-or-later.
+Original contributions to media are licensed under CC BY-SA 3.0, unless a
+different license is explicitly stated in this file.
+
+===============================================================================
+6. WARRANTY DISCLAIMER
+===============================================================================
+
+This package is provided "as is", without warranty of any kind, express or
+implied. The authors and copyright holders are not liable for any claim,
+damages, or other liability arising from the use of this package.
