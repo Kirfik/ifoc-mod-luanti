@@ -12,7 +12,7 @@ The lower part is the flag pole. The upper part contains the flag and occupiesth
 After placing a flag pole with a flag, use the place or punch key whilepointing at the flag pole to select another country flag.
 Country flags are identified by their two-letter ISO 3166-1 alpha-2 countrycodes. For example:
 - `us` — United States;- `gb` — United Kingdom;- `de` — Germany;- `fr` — France;- `jp` — Japan;- `ru` — Russia.
-The exact list of available flags depends on the contents of the `textures`directory.
+The exact list of available flags depends on the contents of the `textures/flags`directory.
 ## Requirements
 - Luanti 5.4.0 or later.
 Older versions may work, but are not officially supported.
